@@ -45,5 +45,3 @@ if [ -d ~/.bashrc.d ]; then
     done
 fi
 unset rc
-
-eval "$(thefuck --alias)"
